@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Notif/Notif.vcxproj" Id="5aa6d1f0-a158-4b45-b792-3cf8fdf95861" />
+</Solution>
